@@ -101,7 +101,7 @@ Los valores indicados al principio son los que le podemos asignar al [atributo t
 Si queremos que nuestra lista aparezca ordenada mediante letras en mayúsculas escribimos lo siguiente:
 
 ~~~html
-<ol type=”A”>
+<ol type=A>
   <li>Julio</li>
   <li>Carmen</li>
   <li>Ignacio</li>
@@ -111,7 +111,7 @@ Si queremos que nuestra lista aparezca ordenada mediante letras en mayúsculas e
 
 En este caso la lista se representará de la siguiente forma:
 
-<ol type=”A”>
+<ol type=A>
   <li>Julio</li>
   <li>Carmen</li>
   <li>Ignacio</li>
